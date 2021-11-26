@@ -1,7 +1,5 @@
 #include<stdio.h>
 #include<math.h>
-#include<conio.h>
-#include<string.h>
 void main()
 {
     int a[30][30],n,m,j,i,sum1=0,sum2=0;
